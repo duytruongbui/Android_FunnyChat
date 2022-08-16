@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AppChatNew</string>
+    <string name="welcome_back">welcome_back</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="mail">mail</string>
+    <string name="password">password</string>
+    <string name="Username">Username</string>
+    <string name="phone">Phone</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_new_account">create_new_account</string>
+    <string name="add_image">add_image</string>
+    <string name="name">name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="map_key">AIzaSyBuU95HE5Sl9gqjBPEhH_nxI5AsDi84-Ns</string>
+    <string name="type_a_message">type_a_message</string>
+</resources>
